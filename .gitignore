@@ -2,3 +2,4 @@ dataProcessingScripts/repositories
 dataProcessingScripts/data
 *.swp
 node_modules
+TODO.md
